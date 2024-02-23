@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alobnayis
 - 👀 I’m interested in learning and collaborating
-- 🌱 I’m currently learning ML Pytorch
+- 🌱 I’m currently learning Gen AI and Stable Cascade
 - 💞️ I’m looking to collaborate on building AI that solves social issues
 - 📫  reach me @alobnayis on twitter
 
