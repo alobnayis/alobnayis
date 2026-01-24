@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alobnayis
 - 👀 I’m interested in learning and collaborating
-- 🌱 I’m currently building a Stealth AI Startup
+- 🌱 I’m currently building
 - 💞️ I’m looking to collaborate on building AI that solves social issues
 - 📫  reach me @alobnayis on twitter
 
